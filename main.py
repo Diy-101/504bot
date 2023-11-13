@@ -1,5 +1,5 @@
 #Можно ввести на одной строке вызов функции на другой аргументы
-
+import os
 import pandas as pd
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
